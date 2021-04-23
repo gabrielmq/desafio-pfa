@@ -1,4 +1,4 @@
-# Desafio PFA ()
+# Desafio PFA (Programa FullCycle de Aceleração: Edição Docker)
 
 A proposta do desafio era desenvolver uma aplicação que se conecta a uma base de dados e retorna os nomes de alguns modulos
 do curso Full Cycle. A aplicação deveria rodar dentro de um container, com um nginx recebendo os requests e redirecionando eles
