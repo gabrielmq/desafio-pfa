@@ -9,4 +9,4 @@ sleep 10s
 
 echo "running application"
 docker run --rm --name desafio-pfa -d --network pfa gabsms/desafio-pfa
-docker run --rm --name nginx -d --network pfa -p 8081:80 gabsms/nginx-desafio-pfa
+docker run --rm --name nginx -d --network pfa -p 8080:80 gabsms/nginx-desafio-pfa
