@@ -1,0 +1,12 @@
+micronaut:
+  application:
+    name: desafio
+datasources:
+  default:
+    url: jdbc:mysql://mysql:3306/desafio
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 'root'
+    schema-generate: CREATE_DROP
+    dialect: MYSQL
+jpa.default.properties.hibernate.hbm2ddl.auto: update
