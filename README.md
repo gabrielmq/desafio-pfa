@@ -11,4 +11,4 @@ para o container em que a aplicação roda.
 ## Como rodar
 
 - Após clonar o projeto, execute o script ```startup.sh```
-- Após executar o script ```startup.sh```, faça uma requisição na url ```http://localhost:8081/modules``` para visualizar alguns modulos do curso.
+- Após executar o script ```startup.sh```, faça uma requisição na url ```http://localhost:8080/modules``` para visualizar alguns modulos do curso.
