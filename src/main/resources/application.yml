@@ -3,7 +3,7 @@ micronaut:
     name: desafio
 datasources:
   default:
-    url: jdbc:mysql://mysql:3306/desafio
+    url: jdbc:mysql://db:3306/desafio
     driverClassName: com.mysql.cj.jdbc.Driver
     username: root
     password: 'root'
